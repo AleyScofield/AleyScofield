@@ -1,32 +1,38 @@
-# Hi, I'm Aleyna 👋
+# Hi 👋, I'm Aleyna Ceylan
 
-🎓 I am a Computer Engineering student.
+🎓 I am a **Computer Engineering student** based in Turkey.
+💻 I am passionate about technology and continuously improving myself in software development.
 
-💻 I am interested in:
-- Web Development
-- JavaScript
-- ASP.NET
-- Machine Software
+---
 
-🚀 My goals:
-- Improve my programming skills
-- Work in a big tech company
-- Build my own company in the future
+## 🚀 About Me
 
-📫 How to reach me:
-- Email: aleynaaceylan65@gmail.com## Hi there 👋
+* 🌱 Currently learning **ASP.NET, JavaScript, and Web Development**
+* 💡 Interested in **Machine Software and System Development**
+* 🎯 My goal is to work in a big tech company and build my own company in the future
 
-<!--
-**AleyScofield/AleyScofield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Programming: JavaScript, C#, Python
+* 🌐 Web: HTML, CSS, ASP.NET Core
+* ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Goals
+
+* Improve my coding and problem-solving skills
+* Gain real-world experience through projects and internships
+* Build innovative software solutions
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [aleynaaceylan65@gmail.com](mailto:aleynaaceylan65@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile!*
